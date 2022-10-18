@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skytodos/static/css/main.947d1c0a.css",
+    "main.js": "/skytodos/static/js/main.99173dfa.js",
+    "index.html": "/skytodos/index.html",
+    "main.947d1c0a.css.map": "/skytodos/static/css/main.947d1c0a.css.map",
+    "main.99173dfa.js.map": "/skytodos/static/js/main.99173dfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947d1c0a.css",
+    "static/js/main.99173dfa.js"
+  ]
+}
